@@ -1,4 +1,6 @@
+[![Build Status](https://travis-ci.org/JSBizon/bacon-spawn.svg?branch=master)](https://travis-ci.org/JSBizon/bacon-spawn.svg?branch=master)
 
+## Introduction
 
 bacon-spawn - spawn child process and create bacon stream
 
